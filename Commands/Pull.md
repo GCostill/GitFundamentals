@@ -15,7 +15,7 @@ If there is any upstream connection established, you can use `git pull` without 
 
 ## Resources
 
--[Git Pull Documentation](http://git-scm.com/docs/git-pull)
+- [Git Pull Documentation](http://git-scm.com/docs/git-pull)
 
 ---
 
